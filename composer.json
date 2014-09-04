@@ -10,7 +10,8 @@
     ],
     "require": {
         "ddeboer/data-import-bundle": "~0.1.0",
-        "ddeboer/data-import": "~0.16"
+        "ddeboer/data-import": "~0.16",
+        "mjohnson/decoda": "~6.2.3"
     },
     "autoload": {
         "psr-4": {

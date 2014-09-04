@@ -8,7 +8,10 @@
             "email": "bjd@bangpound.org"
         }
     ],
-    "require": {},
+    "require": {
+        "ddeboer/data-import-bundle": "~0.1.0",
+        "ddeboer/data-import": "~0.16"
+    },
     "autoload": {
         "psr-4": {
             "Rshief\\Bundle\\MigrationBundle\\": ""
